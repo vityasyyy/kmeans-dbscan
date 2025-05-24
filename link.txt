@@ -1,3 +1,3 @@
 Muhammad Argya Vityasy (23/522547/PA/22475)
-colab link: https://colab.research.google.com/drive/1egpxZiC9ou_-JwemJWV7S9bZOHe4OXhX#scrollTo=3d893688
-github and report link:https://github.com/vityasyyy/kmeans-dbscan
+colab link: https://colab.research.google.com/drive/1egpxZiC9ou_-JwemJWV7S9bZOHe4OXhX
+github and report link: https://github.com/vityasyyy/kmeans-dbscan
